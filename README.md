@@ -1,5 +1,9 @@
 # WarriorGame
 
+## Gameplay Preview
+
+![Boss Encounter](Screenshots/BossEncounter.png)
+
 Unreal Engine 5 C++ third-person action project.
 
 ## Systems Implemented
